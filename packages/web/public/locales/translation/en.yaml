@@ -448,11 +448,7 @@ landing:
       content: Draw a scatter chart with dummy data.
     chat:
       content: >-
-        Please write a Python function that returns Fibonacci numbers. Also,
-        explain the implementation.
-
-        The argument should be the term, and the processing should be written
-        recursively. Please output in markdown.
+        Please provide a translation of this text. Additionally, include a summary and any improved phrasing if available.
     diagram:
       content: Please illustrate a typical company expense production flow with colors.
     generate:
